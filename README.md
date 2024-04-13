@@ -1,5 +1,5 @@
 
-![Screenshot 2024-04-13 084757](https://github.com/manogarans/Single-server-infinite-capacity---Markov-Model/assets/139331782/b442bdaf-6e1b-42ee-89a3-3a8b08de8836)
+                                                                          ![Screenshot 2024-04-13 084757](https://github.com/manogarans/Single-server-infinite-capacity---Markov-Model/assets/139331782/b442bdaf-6e1b-42ee-89a3-3a8b08de8836)
 
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
