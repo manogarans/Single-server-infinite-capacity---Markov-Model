@@ -1,4 +1,3 @@
-![Screenshot 2024-04-13 084757](https://github.com/manogarans/Single-server-infinite-capacity---Markov-Model/assets/139331782/b442bdaf-6e1b-42ee-89a3-3a8b08de8836)
 
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
@@ -26,6 +25,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
  
 ## Program
+DEVELOPED BY : MANOGARAN S
+REG NO : 212223240081
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
